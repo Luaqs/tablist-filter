@@ -1,0 +1,12 @@
+[
+  {
+    "modid": "TablistFilter",
+    "name": "Tablist Filter Mod",
+    "description": "Lets you filter names in tab by holding tab and pressing enter.",
+    "version": "1.0",
+    "mcversion": "1.8.9",
+    "authorList": [
+      "Luaq"
+    ]
+  }
+]
